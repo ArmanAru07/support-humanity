@@ -54,8 +54,6 @@ h1{
     margin: auto;
     margin-top: 50px;
     width: 50%;
-
-
 }
 .amount{
     position: relative;
@@ -70,7 +68,11 @@ h1{
     color: rgb(230, 68, 100);
     border: 3px solid rgb(230, 68, 100);
 }
-
+.line{
+    margin-left: 20%;
+    margin-right: 20%;
+    color: rgb(187, 186, 186);
+}
 
 .donate-plan{
     text-align: center;
@@ -86,7 +88,7 @@ h1{
     border-radius: 5px;
 }
 #food{
-    background-color:antiquewhite
+    background-color:antiquewhite;
 }
 #shelter{
     background-color: aquamarine;
